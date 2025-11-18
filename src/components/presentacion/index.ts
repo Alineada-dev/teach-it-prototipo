@@ -1,0 +1,10 @@
+export { PantallaInicio } from "./PantallaInicio";
+export { PantallaBienvenida } from "./PantallaBienvenida";
+export { PantallaCompetencias } from "./PantallaCompetencias";
+export { PantallaSalon } from "./PantallaSalon";
+export { PantallaPerfilEstudiante } from "./PantallaPerfilEstudiante";
+export { PantallaSeleccionCompetencia } from "./PantallaSeleccionCompetencia";
+export { PantallaReflexion } from "./PantallaReflexion";
+export { PantallaFinal } from "./PantallaFinal";
+export { NavegacionRapida } from "./NavegacionRapida";
+export { AyudaFlotante } from "./AyudaFlotante";
